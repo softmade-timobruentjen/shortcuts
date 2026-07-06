@@ -19,10 +19,10 @@
 
 | Shortcut | Description | iOS | iPadOS | macOS | One-Tap Install |
 |----------|-------------|-----|--------|-------|-----------------|
-| **📅 Cal2NotesGPT** | Get Notes for your appointment with ChatGPT | ✅ | ✅ | ✅ | [Install →](shortcuts://Cal2Notes.shortcut) |
+| **📅 Cal2NotesGPT** | Get Notes for your appointment with ChatGPT | ✅ | ✅ | ✅ | [Download+Install](https://github.com/softmade-timobruentjen/shortcuts/blob/main/Cal2Notes.shortcut) |
 | **📅 Cal2Notes** | Get Notes for your appointment with Apple Intelligence | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
 
-> *Click the install links to add shortcuts directly (works best on iOS/iPadOS)*
+> *Click the install links and open with the shortcuts app*
 
 ---
 
