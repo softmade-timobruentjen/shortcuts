@@ -5,7 +5,7 @@
 **A curated collection of powerful, time-saving Apple Shortcuts**
 
 ![GitHub stars](https://img.shields.io/github/stars/softmade-timobruentjen/shortcuts?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/softmade-timobruentjen/shortcutst?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/softmade-timobruentjen/shortcuts?style=for-the-badge)
 ![iOS Version](https://img.shields.io/badge/iOS-15%2B-007AFF?style=for-the-badge&logo=apple)
 ![Last Updated](https://img.shields.io/github/last-commit/softmade-timobruentjen/shortcuts?style=for-the-badge)
 
