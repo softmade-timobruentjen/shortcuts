@@ -29,8 +29,9 @@
 ## 🚀 How to Install
 
 1. Tap any **Install** link above on your iPhone or iPad.
-2. Tap **Add Shortcut** when prompted.
-3. (Recommended) Go to **Shortcuts app → My Shortcuts → ... → Details** and allow "Untrusted Shortcuts" if needed.
+2. Tap **Download** when prompted.
+3. Open with **Shortcuts** app.
+4. (Recommended) Go to **Shortcuts app → My Shortcuts → ... → Details** and allow "Untrusted Shortcuts" if needed.
 
 **Pro Tip**: Use the **Shortcuts Gallery** inside the app for easier management.
 
