@@ -1,2 +1,90 @@
-# shortcuts
-Shortcuts for Apple 
+<div align="center">
+
+# 🍎 Apple Shortcuts Vault ✨
+
+**A curated collection of powerful, time-saving Apple Shortcuts**
+
+![GitHub stars](https://img.shields.io/github/stars/yourusername/apple-shortcuts-vault?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/apple-shortcuts-vault?style=for-the-badge)
+![iOS Version](https://img.shields.io/badge/iOS-15%2B-007AFF?style=for-the-badge&logo=apple)
+![Last Updated](https://img.shields.io/github/last-commit/yourusername/apple-shortcuts-vault?style=for-the-badge)
+
+### Boost your productivity on iPhone, iPad & Mac with beautiful, ready-to-use shortcuts.
+
+</div>
+
+---
+
+## ✨ Featured Shortcuts
+
+| Shortcut | Description | iOS | iPadOS | macOS | One-Tap Install |
+|----------|-------------|-----|--------|-------|-----------------|
+| **🔋 Smart Battery Optimizer** | Analyzes usage and suggests optimal charging times + enables Low Power Mode intelligently | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
+| **📸 Auto Aesthetic Camera** | Takes photos, applies cinematic filters, saves to dedicated album | ✅ | ✅ | ❌ | [Install →](shortcuts://...) |
+| **📅 Daily Brief** | Morning summary: Weather + Calendar + Tasks + Top News | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
+| **💰 Expense Tracker** | Quickly log expenses, categorize, and export to Sheets | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
+| **🎵 Mood Music Switcher** | Changes music based on time, location, or detected mood | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
+
+> *Click the install links to add shortcuts directly (works best on iOS/iPadOS)*
+
+---
+
+## 📂 All Shortcuts
+
+### Productivity
+- [Focus Mode Manager](links/...)
+- [Quick Note to Obsidian/Logseq](links/...)
+- [Meeting Notes Automator](links/...)
+
+### Media & Creativity
+- [Instagram Story Template](links/...)
+- [Batch Image Resizer](links/...)
+- [YouTube to Podcast](links/...)
+
+### Utilities
+- [Wi-Fi Password Sharer](links/...)
+- [QR Code Everything](links/...)
+- [Clipboard History](links/...)
+
+*(Full list in the `/Shortcuts` folder)*
+
+---
+
+## 🚀 How to Install
+
+1. Tap any **Install** link above on your iPhone or iPad.
+2. Tap **Add Shortcut** when prompted.
+3. (Recommended) Go to **Shortcuts app → My Shortcuts → ... → Details** and allow "Untrusted Shortcuts" if needed.
+
+**Pro Tip**: Use the **Shortcuts Gallery** inside the app for easier management.
+
+---
+
+## 🛠️ How to Contribute
+
+Want to add your own shortcut? Awesome!
+
+1. Fork the repository
+2. Add your `.shortcut` file to the appropriate folder
+3. Update this `README.md` with description + install link
+4. Submit a Pull Request
+
+All shortcuts must be safe, well-documented, and include a preview image.
+
+---
+
+## ⭐ Credits & Thanks
+
+- All contributors who shared their shortcuts
+- Apple Shortcuts Team
+- The amazing automation community
+
+---
+
+<div align="center">
+
+**Made with ❤️ for the Apple ecosystem**
+
+[⭐ Star this repo](https://github.com/yourusername/apple-shortcuts-vault) if you found it useful!
+
+</div>
