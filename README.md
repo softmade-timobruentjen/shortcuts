@@ -19,34 +19,10 @@
 
 | Shortcut | Description | iOS | iPadOS | macOS | One-Tap Install |
 |----------|-------------|-----|--------|-------|-----------------|
-| **🔋 Smart Battery Optimizer** | Analyzes usage and suggests optimal charging times + enables Low Power Mode intelligently | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
-| **📸 Auto Aesthetic Camera** | Takes photos, applies cinematic filters, saves to dedicated album | ✅ | ✅ | ❌ | [Install →](shortcuts://...) |
-| **📅 Daily Brief** | Morning summary: Weather + Calendar + Tasks + Top News | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
-| **💰 Expense Tracker** | Quickly log expenses, categorize, and export to Sheets | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
-| **🎵 Mood Music Switcher** | Changes music based on time, location, or detected mood | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
+| **📅 Cal2NotesGPT** | Get Notes for your appointment with ChatGPT | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
+| **📅 Cal2Notes** | Get Notes for your appointment with Apple Intelligence | ✅ | ✅ | ✅ | [Install →](shortcuts://...) |
 
 > *Click the install links to add shortcuts directly (works best on iOS/iPadOS)*
-
----
-
-## 📂 All Shortcuts
-
-### Productivity
-- [Focus Mode Manager](links/...)
-- [Quick Note to Obsidian/Logseq](links/...)
-- [Meeting Notes Automator](links/...)
-
-### Media & Creativity
-- [Instagram Story Template](links/...)
-- [Batch Image Resizer](links/...)
-- [YouTube to Podcast](links/...)
-
-### Utilities
-- [Wi-Fi Password Sharer](links/...)
-- [QR Code Everything](links/...)
-- [Clipboard History](links/...)
-
-*(Full list in the `/Shortcuts` folder)*
 
 ---
 
